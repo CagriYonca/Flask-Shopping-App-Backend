@@ -1,0 +1,5 @@
+Flask==2.0.2
+xmltodict==0.12.0
+mongoengine==0.23.1
+mongomock==4.0.0
+flask-mongoengine==1.0.0
